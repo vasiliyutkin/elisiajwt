@@ -1,0 +1,53 @@
+{
+  "last_reminder": 1727605267759,
+  "cached_at": 1727605256965,
+  "version": "5.20.0",
+  "cli_path": "C:\\Users\\Диаматти13\\Desktop\\elysia-prisma-jwt-auth\\node_modules\\prisma\\build\\index.js",
+  "output": {
+    "product": "prisma",
+    "previous_version": "5.20.0",
+    "checkpoint_version": 4,
+    "local_timestamp_without_timezone": "2024-09-29T13:20:56Z",
+    "current_version": "5.20.0",
+    "current_release_date": 1727189406,
+    "client_event_id": "58f56c5a-0293-4e35-8f1f-303b4a65f874",
+    "current_download_url": "https://github.com/prisma/prisma",
+    "package": "prisma",
+    "release_tag": "latest",
+    "install_command": "npm install --save-dev prisma",
+    "schema_providers": [
+      "postgresql"
+    ],
+    "schema_preview_features": [],
+    "schema_generators_providers": [
+      "prisma-client-js"
+    ],
+    "current_changelog_url": "https://github.com/prisma/prisma",
+    "outdated": false,
+    "project_website": "https://prisma.io",
+    "alerts": []
+  },
+  "product": "prisma",
+  "cli_install_type": "local",
+  "local_timestamp": "2024-09-29T13:21:07+03:00",
+  "project_hash": "a6cc66bd",
+  "cli_path_hash": "15cb3b0b",
+  "endpoint": "https://checkpoint.prisma.io",
+  "arch": "x64",
+  "os": "win32",
+  "node_version": "v22.5.1",
+  "command": "generate",
+  "schema_providers": [
+    "postgresql"
+  ],
+  "schema_preview_features": [],
+  "schema_generators_providers": [
+    "prisma-client-js"
+  ],
+  "cache_file": "AppData\\Local\\checkpoint-nodejs\\Cache\\prisma-15cb3b0b",
+  "cache_duration": 43200000,
+  "remind_duration": 172800000,
+  "timeout": 5000,
+  "unref": true,
+  "child_path": "C:\\Users\\Диаматти13\\Desktop\\elysia-prisma-jwt-auth\\node_modules\\prisma\\build\\child"
+}
